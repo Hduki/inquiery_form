@@ -39,3 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # inquiry_forms-app
 # inquiry_forms-app_2
 # inquiry_forms-app_3
+# inquiery_form
